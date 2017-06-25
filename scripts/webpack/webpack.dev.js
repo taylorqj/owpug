@@ -26,6 +26,11 @@ module.exports = merge.smart(baseWebConfig, {
             'react',
             'react-dom',
             'socket.io-client',
+            'redux',
+            'redux-saga',
+            'react-redux',
+            'react-router',
+            'react-router-dom',
         ],
     },
 
